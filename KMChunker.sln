@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{276DCC3A-7452-4BA3-A585-95D65AC22BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KernelMemory.Chunker", "KernelMemory.Chunker\KernelMemory.Chunker.csproj", "{A08B3051-C22A-444D-A634-1E28871675F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276DCC3A-7452-4BA3-A585-95D65AC22BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276DCC3A-7452-4BA3-A585-95D65AC22BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276DCC3A-7452-4BA3-A585-95D65AC22BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276DCC3A-7452-4BA3-A585-95D65AC22BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08B3051-C22A-444D-A634-1E28871675F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08B3051-C22A-444D-A634-1E28871675F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08B3051-C22A-444D-A634-1E28871675F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08B3051-C22A-444D-A634-1E28871675F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
